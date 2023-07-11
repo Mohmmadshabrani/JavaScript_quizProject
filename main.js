@@ -8,6 +8,17 @@
 
 // console.log(text)
 
+// ================================
+
+// lastIndexOf("planet", 20)
+
+// let textLast = "Hello planet earth, you are a great planet.";
+// let result = textLast.lastIndexOf("planet");
+// let resultLast = textLast.lastIndexOf("Planet");
+
+// console.log(resultLast)
+
+
 
 
 
