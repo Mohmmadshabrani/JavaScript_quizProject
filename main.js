@@ -7,3 +7,20 @@
 // text = text.replaceAll("cats","dogs");
 
 // console.log(text)
+
+
+
+
+
+
+
+
+
+
+
+
+const func = function (){
+  console.log('hi')
+}
+
+func();
