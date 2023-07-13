@@ -53,7 +53,7 @@
     }
     else { return num2 }
  }
- console.log(largerNubmer(12 , 5));
+ console.log(largerNubmer(12 , 6));
 
 
  
